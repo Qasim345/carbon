@@ -41,3 +41,10 @@
 </div>
 
 <br>
+<p align="center">
+
+<img width="100%" alt="Carbon example" src="https://user-images.githubusercontent.com/8397708/63456416-b27d1a80-c403-11e9-9572-105b089be885.png">
+
+</p>
+
+## <div dir="rtl">ویژه گی ها</div>
